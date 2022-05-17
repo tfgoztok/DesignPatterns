@@ -334,7 +334,7 @@ Taner Furkan Göztok - furkangoztok09@gmail.com --- tfgoztok@etu.edu.tr
 
 
 
-Project Link: [https://github.com/ardaisker/DesignPatterns](https://github.com/ardaisker/DesignPatterns) 
+Project Link: [https://github.com/tfgoztok/DesignPatterns](https://github.com/tfgoztok/DesignPatterns) 
 
 
 ## Contributing
